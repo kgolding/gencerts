@@ -138,7 +138,7 @@
           <button
             type="button"
             class="btn btn-primary float-end"
-            on:click={() => download("fullchain.pem", key)}>Download</button
+            on:click={() => download("fullchain.pem", cert)}>Download</button
           >
         </h4>
         <div class="clearfix"></div>
